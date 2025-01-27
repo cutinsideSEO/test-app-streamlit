@@ -1,1 +1,8 @@
 streamlit
+matplotlib
+pandas
+pytrends
+requests
+bs4
+openai
+wordcloud
